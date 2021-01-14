@@ -1,0 +1,127 @@
+.margin{
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+.margin1{
+    margin-top: 12%;
+}
+.navbar{
+    background-color: #fff;
+}
+.navbar-font-fmaily,
+a {
+    font-family: font-family:"Roboto";
+    color: #3C3C3C;
+    font-weight: 500;
+}
+.nav-logo {
+    width: 291.11px;
+    height: 39.27px;
+}
+.highlight1 {
+    font-size: 70px;
+    line-height: 70px;
+    color: #363958;
+    font-family: 'Bebas Neue';
+}
+.highlight2 {
+    font-size: 70px;
+    line-height: 70px;
+    color: #76c27e;
+    font-family: 'Bebas Neue';
+}
+
+h2 {
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: 550;
+    font-size: 46px;
+    line-height: 46px;
+    color: #363958;
+    margin-bottom: 5%;
+}
+button {
+    background-color: #2A1E59;
+    color: white;
+    border-radius: 10px;
+    padding: 13px 20px;
+    font-size: 14px;
+    font-weight: 500;
+    border:0;
+}
+button:hover{
+    background-color: rgb(11, 145, 207);
+    color:#F1F1F1;
+}
+p {
+    font-family: font-family:"Roboto";
+    font-size: 15px;
+    font-weight:490;
+    line-height:26px;
+    color: #3E3E3E;
+}
+h6,h5{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #363958;
+}
+h3{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 950;
+    font-size: 35px;
+    line-height: 40px;
+    color: #76C27E;
+}
+.banner img {
+    width: 100%;
+    height: 340px;
+}
+.justyfy {
+    justify-self: center;
+}
+.icon-size img {
+    height: 82px;
+    width: 78px;
+}
+.text-align {
+    text-align: left;
+    font-family: font-family:"Roboto";
+    direction: ltr;
+}
+
+.text-align.col-xs-12 {
+    text-align: center;
+}
+
+.padding {
+    padding-top: 2%;
+}
+.bag-bg-cl{
+    background-color:#F1F1F1;
+    border-radius:10px;
+    height:266px;
+    height:276px;
+    margin:15px;
+}
+.border-radius{
+    border-radius:10px;
+}
+.panda-card{
+margin:0;
+border-radius: 15px;;
+}
+.panda-card-footer{
+background-color:white;
+border:0;
+padding:10px;
+margin-bottom: 10px;
+} 
+small{
+    display: block;
+    padding:2%;
+    text-align:center;
+} 
